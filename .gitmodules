@@ -1,3 +1,6 @@
 [submodule "01_Pong"]
 	path = 01_Pong
 	url = git@github.com:giorgosathanasopoulos/01_Pong
+[submodule "02_Breakout"]
+	path = 02_Breakout
+	url = git@github.com:giorgosathanasopoulos/02_Breakout
