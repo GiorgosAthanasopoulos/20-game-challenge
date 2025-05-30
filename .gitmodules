@@ -4,6 +4,6 @@
 [submodule "02_Breakout"]
 	path = 02_Breakout
 	url = git@github.com:giorgosathanasopoulos/02_Breakout
-[submodule "03_space_invaders"]
-	path = 03_space_invaders
+[submodule "03_SpaceInvaders"]
+	path = 03_SpaceInvaders
 	url = git@github.com:giorgosathanasopoulos/03_SpaceInvaders
