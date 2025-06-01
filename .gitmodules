@@ -7,3 +7,6 @@
 [submodule "03_SpaceInvaders"]
 	path = 03_SpaceInvaders
 	url = git@github.com:giorgosathanasopoulos/03_SpaceInvaders
+[submodule "04_Asteroids"]
+	path = 04_Asteroids
+	url = git@github.com:giorgosathanasopoulos/04_Asteroids
