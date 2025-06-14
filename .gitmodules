@@ -10,3 +10,7 @@
 [submodule "04_Asteroids"]
 	path = 04_Asteroids
 	url = git@github.com:giorgosathanasopoulos/04_Asteroids
+[submodule "05_PacMan"]
+	path = 05_PacMan
+	url = git@github.com:giorgosathanasopoulos/05_PacMan
+
