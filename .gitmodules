@@ -13,4 +13,6 @@
 [submodule "05_PacMan"]
 	path = 05_PacMan
 	url = git@github.com:giorgosathanasopoulos/05_PacMan
-
+[submodule "06_SuperMarioBros"]
+	path = 06_SuperMarioBros
+	url = git@github.com:giorgosathanasopoulos/06_SuperMarioBros
