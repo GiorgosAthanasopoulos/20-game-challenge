@@ -15,4 +15,5 @@
 	url = git@github.com:giorgosathanasopoulos/05_PacMan
 [submodule "06_VVVVVV"]
 	path = 06_VVVVVV
-	url = ./06_VVVVVV
+	url = git@github.com:giorgosathanasopoulos/06_VVVVVV
+
